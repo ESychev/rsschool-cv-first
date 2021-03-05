@@ -2,8 +2,8 @@
 
 ### Contacts:
 
-Email:  jenya8888.sychyov@yandex.by
-GitHub: github.com/ESychev
+1. Email:  jenya8888.sychyov@yandex.by
+2. GitHub: github.com/ESychev
 
 ### Capable of studying. I am capable of studying new technologies for the implementation of the tasks of software development.
 
@@ -15,15 +15,16 @@ GitHub: github.com/ESychev
 4. SQL
 
 ---
-function checkAuth() {
-    if (login) {
-        authorized();
-
-    } else {
-        notAuthorized();
-    }
+function setRandomColor(obj)
+{
+obj.style.backgroundColor =
+ColorName[Math.round(Math.random() * 6)];
 }
----
+function setDefaultColor(obj)
+{
+obj.style.backgroundColor = "";
+}
+
 
 My completed projects:
 
@@ -38,7 +39,8 @@ Creation of a multipage website based on a table (HTML, CSS)
 Creation of an application to test knowledge (HTML, CSS, JS)
 
 ### Courses
-ITVDN  HTML5&CSS3 Start  
+1. ITVDN HTML5&CSS3 Start  
 
-### English
+### English 
+1. Elementary A2
 
