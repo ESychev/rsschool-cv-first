@@ -14,7 +14,7 @@
 3. JS
 4. SQL
 
----
+```
 function setRandomColor(obj)
 {
 obj.style.backgroundColor =
@@ -25,6 +25,7 @@ function setDefaultColor(obj)
 obj.style.backgroundColor = "";
 }
 
+```
 
 My completed projects:
 
